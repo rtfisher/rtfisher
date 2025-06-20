@@ -9,8 +9,8 @@ I'm a physics professor at the University of Massachusetts Dartmouth (https://rf
 
 Feel free to poke around and see what's new. If you have any questions or just want to connect, don't hesitate to reach out!
 
-- Bob
-- 
+Bob
+
 *Continuing a legacy that traces back through Lyman Spitzer, Subrahmanyan Chandrasekhar, and Carl Friedrich Gauss*
 
 "We are all made of star stuff" – and stellar explosions! ✨
