@@ -3,8 +3,8 @@
 About Me
 I'm a physics professor at the University of Massachusetts Dartmouth (https://rfisher.sites.umassd.edu/). I am a computational astrophysicist with a particular focus on multidimensional hydrodynamical and magnetohydrodynamical simulations, combustion, and thermonuclear transients. This repository is a collection of my public work, including:
 
-* Code snippets and scripts from my research, particularly related to the FLASH code
-* Small personal projects
+* Course materials and lecture notes (such as from a summer school in Yunnan Province, China https://github.com/rtfisher/summerschool_lectures)
+* Code snippets and scripts from my research, particularly related to the FLASH code 
 * Anything else I'm excited to share!
 
 Feel free to poke around and see what's new. If you have any questions or just want to connect, don't hesitate to reach out!
