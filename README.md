@@ -1,10 +1,7 @@
 ## Hi there 👋
 
 About Me
-I'm a physics professor at the University of Massachusetts Dartmouth (https://rfisher.sites.umassd.edu/). I am a computational astrophysicist with a particular focus on multidimensional hydrodynamical and magnetohydrodynamical simulations, combustion, and thermonuclear transients.
-
-What You'll Find Here
-This repository is a collection of my public work, including:
+I'm a physics professor at the University of Massachusetts Dartmouth (https://rfisher.sites.umassd.edu/). I am a computational astrophysicist with a particular focus on multidimensional hydrodynamical and magnetohydrodynamical simulations, combustion, and thermonuclear transients. This repository is a collection of my public work, including:
 
 * Code snippets and scripts from my research, particularly related to the FLASH code
 * Small personal projects
