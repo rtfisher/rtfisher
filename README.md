@@ -5,7 +5,7 @@ I'm a physics professor at the University of Massachusetts Dartmouth (https://rf
 * Other course materials and lecture notes (such as from a summer school in Yunnan Province, China https://github.com/rtfisher/summerschool_lectures)
 * Anything else I'm excited to share (such as Degree Certify, https://github.com/rtfisher/degree-certify, a Python script which reads PDFs of student transcripts and streamlines the degree certification process. Not astrophysical but a very convenient time saver!)
 
-Feel free to poke around and see what's new. If you have any questions or just want to connect, don't hesitate to reach out!
+Feel free to poke around and see what's new. If you have any questions, don't hesitate to reach out!
 
 Bob
 
