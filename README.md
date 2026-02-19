@@ -3,7 +3,7 @@ I'm a physics professor at the University of Massachusetts Dartmouth (https://rf
 * Code snippets and scripts from my research, particularly related to the FLASH code (such as FLASH-X Docker, https://github.com/rtfisher/flashx_docker) and SNID Docker (https://github.com/rtfisher/snid_docker)
 * Research lecture notes, such as from a summer school at ICESUN in Yunnan Province, China https://github.com/rtfisher/summerschool_lectures.
 * Visualizations used in my classes -- most notably from my junior-level undergraduate physics major class, illustrating forced, damped, harmonic and anharmonic oscillators (https://github.com/rtfisher/forced_damped_oscillator), normal modes of coupled harmonic oscillators (https://github.com/rtfisher/normal_modes), the restricted three body problem (https://github.com/rtfisher/circular_restricted_three_body_problem), torque-free rotation of a rigid body (https://github.com/rtfisher/torque-free-rigid-rotation), and the Poinsot ellipsoid construction for rotating bodies (https://github.com/rtfisher/poinsot_ellipsoids).
-* Anything else I'm excited to share (such as Degree Certify, https://github.com/rtfisher/degree-certify, a Python script which reads PDFs of student transcripts and streamlines the degree certification process. Not astrophysical but a very convenient time saver!)
+* Anything else I'm excited to share -- including a grant budget calculator (https://github.com/rtfisher/grant-budget-calculator), or  a Python script which reads PDFs of student transcripts and streamlines the degree certification process (https://github.com/rtfisher/degree-certify).  Not astrophysical but very convenient time savers!
 
 Feel free to poke around and see what's new. If you have any questions, don't hesitate to reach out!
 
